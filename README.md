@@ -12,6 +12,7 @@
 - BABELRC
 - JSON
 - WEBPACK
+- NODE
 
 ## Description
 This wepage allows the user to type in an journal entry and it will provide the user with the total word count, amount of vowels, and amount of consonants that they used in their entry. It will also provide them with a "teaser" which is the first word of the entry if the total entry is less than 8 words, or the first 8 words if the entry is longer than 8 words. 
